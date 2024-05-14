@@ -16,6 +16,7 @@ This project is written in Solidity, a programming language used for developing 
 ### Executing program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension and copy and paste the given code.
 
 To compile the code, click on the built-in compiler "Solidity Compiler" tab. Make sure the "Compiler" option is the same as the one in the code, and then click compile.
